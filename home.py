@@ -58,7 +58,7 @@ def home_page():
 
     - ❤️ Futbol and Music (I like instruments and Vinyls)
 
-    - 🤖 I want to become a Master in Data analytics so I can dive into research
+    - 🤖 I want to become a Master in Data analytics so I can dive into finance consultancy
 
     - 🏂 Playing videogames
 
